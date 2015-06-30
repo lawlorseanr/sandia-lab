@@ -8,3 +8,5 @@ def mutate(order):
     i, j = random.sample(range(len(order)), 2)
     order[i], order[j] = order[j], order[i]
     return order
+
+# refactor 3
