@@ -7,3 +7,5 @@ def merge(pattern, out):
         with open(path) as f:
             rows.extend(list(csv.DictReader(f)))
     return rows
+
+# doc touch 4
