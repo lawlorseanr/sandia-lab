@@ -15,3 +15,5 @@ def merge(pattern, out):
 # add comment 8
 
 # lint pass 9
+
+# fix typo 18
