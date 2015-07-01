@@ -11,3 +11,5 @@ def merge(pattern, out):
 # doc touch 4
 
 # fix typo 5
+
+# add comment 8
