@@ -9,3 +9,5 @@ def merge(pattern, out):
     return rows
 
 # doc touch 4
+
+# fix typo 5
