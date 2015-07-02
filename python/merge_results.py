@@ -31,3 +31,5 @@ def merge(pattern, out):
 # refactor 43
 
 # add comment 44
+
+# rename var 45
