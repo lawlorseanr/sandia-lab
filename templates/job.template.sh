@@ -54,3 +54,5 @@ python run_case.py --id ${CASE_ID}
 # note update 76
 
 # tweak params 78
+
+# rename var 79
