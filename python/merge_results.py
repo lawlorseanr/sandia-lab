@@ -79,3 +79,5 @@ def merge(pattern, out):
 # rename var 105
 
 # doc touch 106
+
+# refactor 107
