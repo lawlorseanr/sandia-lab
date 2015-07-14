@@ -89,3 +89,5 @@ def merge(pattern, out):
 # doc touch 112
 
 # lint pass 117
+
+# rename var 118
