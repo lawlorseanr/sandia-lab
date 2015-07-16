@@ -108,3 +108,5 @@ python run_case.py --id ${CASE_ID}
 # note update 148
 
 # tweak params 149
+
+# rename var 151
