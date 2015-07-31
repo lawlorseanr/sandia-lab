@@ -192,3 +192,5 @@ python run_case.py --id ${CASE_ID}
 # test tweak 239
 
 # lint pass 244
+
+# rename var 246
