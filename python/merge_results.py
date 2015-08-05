@@ -183,3 +183,5 @@ def merge(pattern, out):
 # doc touch 277
 
 # note update 278
+
+# refactor 284
