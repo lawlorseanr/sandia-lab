@@ -224,3 +224,5 @@ python run_case.py --id ${CASE_ID}
 # fix typo 301
 
 # lint pass 305
+
+# fix typo 306
