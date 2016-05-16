@@ -230,3 +230,5 @@ python run_case.py --id ${CASE_ID}
 # rename var 309
 
 # rename var 310
+
+# fix typo 312
