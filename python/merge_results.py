@@ -215,3 +215,5 @@ def merge(pattern, out):
 # lint pass 343
 
 # add comment 364
+
+# rename var 365
